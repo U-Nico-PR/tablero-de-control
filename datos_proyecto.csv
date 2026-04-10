@@ -1,0 +1,13 @@
+id,fecha_entrada,fecha_termino,tipo,prioridad,modulo,estado
+HU-01,2026-03-29 09:12,2026-03-31 14:45,HU,Alta,Pago,Cerrado
+HU-03,2026-03-30 10:27,2026-04-02 16:33,HU,Media,Stock,Abierto
+HU-04,2026-03-31 08:05,2026-04-03 12:48,HU,Alta,Login,Cerrado
+HU-05,2026-03-29 13:44,2026-04-01 18:22,HU,Baja,Stock,Cerrado
+HU-06,2026-04-01 09:55,2026-04-04 15:10,HU,Alta,Pago,Cerrado
+HU-07,2026-04-02 11:20,2026-04-05 17:40,HU,Baja,Login,Cerrado
+HU-08,2026-03-30 14:18,2026-04-03 19:05,HU,Alta,Stock,Cerrado
+BUG-01,2026-03-29 15:33,2026-03-29 20:11,Bug,Media,Pago,Abierto
+BUG-02,2026-03-30 09:02,2026-03-30 13:47,Bug,Alta,Stock,Cerrado
+BUG-03,2026-03-31 16:25,2026-04-01 10:30,Bug,Baja,Login,Cerrado
+BUG-04,2026-04-01 08:40,2026-04-01 12:15,Bug,Alta,Pago,Cerrado
+BUG-05,2026-04-02 14:55,2026-04-02 19:22,Bug,Media,Pago,Cerrado
